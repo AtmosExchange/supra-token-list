@@ -1,0 +1,20 @@
+{
+    "name": "@atmosexchange/supra-token-list",
+    "version": "1.0.0",
+    "type": "module",
+    "private": false,
+    "description": "Supra Token list",
+    "main": "dist/cjs/index.js",
+    "dependencies": {
+      "typescript": "^4.4.2"
+    },
+    "publishConfig": {
+      "access": "public"
+    },
+    "author": "team@atmosprotocol.com",
+    "license": "MIT",
+    "types": "dist/index.d.ts",
+    "devDependencies": {
+      "@types/node": "^20.11.30"
+    }
+} 
