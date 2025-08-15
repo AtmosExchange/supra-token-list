@@ -29,7 +29,7 @@
     "twiterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": null,
+    "tags": ["Native"],
     "atmosUiIndex": 1,
     "coinGeckoId": null,
     "coinMarketCapId": null,
