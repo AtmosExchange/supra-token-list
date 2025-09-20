@@ -53,7 +53,7 @@
     "atmosUiIndex": 3,
     "coinGeckoId": null,
     "coinMarketCapId": null,
-    "verified": "Unverified",
+    "verified": "Verified",
     "is_featured": true
   },
   {
@@ -72,7 +72,7 @@
     "atmosUiIndex": 4,
     "coinGeckoId": null,
     "coinMarketCapId": null,
-    "verified": "Unverified",
+    "verified": "Verified",
     "is_featured": true
   },
   {
@@ -91,7 +91,7 @@
     "atmosUiIndex": 5,
     "coinGeckoId": null,
     "coinMarketCapId": null,
-    "verified": "Unverified",
+    "verified": "Verified",
     "is_featured": false
   },
   {
@@ -110,7 +110,7 @@
     "atmosUiIndex": 6,
     "coinGeckoId": null,
     "coinMarketCapId": null,
-    "verified": "Unverified",
+    "verified": "Verified",
     "is_featured": true
   },
   {
