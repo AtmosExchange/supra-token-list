@@ -24,6 +24,8 @@ Tokens in this list are categorized by their verification status:
 
 ## How to Add or Modify Token Details
 
+If you're not familiar with GitHub, please refer to our documentation or open a ticket on Discord - we'll help you. The fastest way to submit your token is through GitHub.
+
 Follow these steps to submit your token for inclusion in the list:
 
 ### 1. Fork the Repository
