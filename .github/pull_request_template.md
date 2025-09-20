@@ -10,22 +10,13 @@ Please ensure all items are completed before submitting this PR:
 - [ ] Token addresses verified and confirmed
 
 ## Token Details
-
 **Token Name:** [Enter token name]
-
 **Token Symbol:** [Enter token symbol]
 
-**Token Type:** [Native/Bridged/Meme]
-
-**Verification Status Requested:** [Verified/Recognized/Unverified]
 
 ## Description
 
-[Provide a brief description of your token and why it should be added to the list]
-
-## Additional Notes
-
-[Any additional information, context, or special requests]
+[Provide a brief description of your token or any modification you did]
 
 ---
 
