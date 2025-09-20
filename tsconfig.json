@@ -11,7 +11,7 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "module": "CommonJS",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
@@ -22,7 +22,7 @@
     "rootDir": ".",
     "sourceMap": true,
     "outDir": "dist",
-    "emitDeclarationOnly": true
+    "emitDeclarationOnly": true,
   },
   "include": ["src", "env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
