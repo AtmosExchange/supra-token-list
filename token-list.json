@@ -20,7 +20,7 @@
   },
   {
     "coinAddress": "0x9176f70f125199a3e3d5549ce795a8e906eed75901d535ded623802f15ae3637::cdp_multi::CASH",
-    "faAddress": null,
+    "faAddress": "0x4b28b64c9fa2e5a10f8fb57f1df741f40f58d1eafcfb6ae7c6cfbc68c83d32f7",
     "name": "Solido Stablecoin",
     "symbol": "CASH",
     "decimals": 8,
