@@ -39,7 +39,7 @@
   },
   {
     "coinAddress": "0x81846514536430ea934c7270f86cf5b067e2a2faef0e91379b4f284e91c7f53c::vault_core::VaultShare",
-    "faAddress": null,
+    "faAddress": "0x98e458ccc04ee5a5de8d82857476f820a033bede08f7fbf033390cea937c6ec6",
     "name": "Solido Staked SUPRA",
     "symbol": "stSUPRA",
     "decimals": 8,
@@ -96,7 +96,7 @@
   },
   {
     "coinAddress": "0x9176f70f125199a3e3d5549ce795a8e906eed75901d535ded623802f15ae3637::vault_core::VaultShare",
-    "faAddress": null,
+    "faAddress": "0xf0ab0c3c9ab3abf0596dee7713d453096b538a76bdf3b69b0bb271558b40ae52",
     "name": "Bonded CASH",
     "symbol": "bCASH",
     "decimals": 8,
@@ -115,7 +115,7 @@
   },
   {
     "coinAddress": "0x8f7d16ade319b0fce368ca6cdb98589c4527ce7f5b51e544a9e68e719934458b::hyper_coin::DexlynUSDC",
-    "faAddress": null,
+    "faAddress": "0xbb3c1ca1ef67b1a994f2463978695c7bf890710182f75edef05ad08490be3658",
     "name": "DexlynUSDC",
     "symbol": "dexUSDC",
     "decimals": 6,
@@ -134,7 +134,7 @@
   },
   {
     "coinAddress": "0x4742d10cab62d51473bb9b4752046705d40f056abcaa59bcb266078c5945b864::JOSH::JOSH",
-    "faAddress": null,
+    "faAddress": "0x459b5670239b5ddf864138012df750d0e5210628e299a48e4d94f75711e82fc3",
     "name": "joshua",
     "symbol": "JOSH",
     "decimals": 6,
@@ -153,7 +153,7 @@
   },
     {
     "coinAddress": "0x4742d10cab62d51473bb9b4752046705d40f056abcaa59bcb266078c5945b864::BABYJOSH::BABYJOSH",
-    "faAddress": null,
+    "faAddress": "0xe1afaaed7625f0a500fc42adb440bd999b7249a0c96e48c4a3f11bc30c211d8",
     "name": "BABY JOSHUA",
     "symbol": "BABYJOSH",
     "decimals": 6,
@@ -172,7 +172,7 @@
   },
   {
     "coinAddress": "0xb8e94e7204d8eeb565a653d262ae6f7434a3a452e2aaf624810b33dfa3b64d09::DAWGZ::DAWGZ",
-    "faAddress": null,
+    "faAddress": "0x9d998eff3c742a24139590c57d02ff43a4e536a66bb415edabca6979f081bf1",
     "name": "Rez Dawgz",
     "symbol": "DAWGZ",
     "decimals": 6,
@@ -191,7 +191,7 @@
   },
   {
     "coinAddress": "0x32008172b80cf1d9ed5804eddac608f0c25ac211d90e7aeff44c1993bcf0b863::TSUPRA::TSUPRA",
-    "faAddress": null,
+    "faAddress": "0x73f4acd4a079f10ffb3a7b628c19e9231ed09b4742d69c5706869fcd5edfa2cb",
     "name": "TOYOTA SUPRA",
     "symbol": "TSUPRA",
     "decimals": 6,
@@ -210,7 +210,7 @@
   },
   {
     "coinAddress": "0x35e70dea5a275dda4bdba9c5903d489891a10712dfbfa2bf04cc009f77026b94::lowCapGems::LOWCAPS",
-    "faAddress": null,
+    "faAddress": "0xa96cc508912f1a2f1c254038ea9ffd54707b04cf07d64280fc0081202fb84648",
     "name": "LOW CAP GEMS",
     "symbol": "LOWCAPS",
     "decimals": 6,
@@ -229,7 +229,7 @@
   },
   {
     "coinAddress": "0x901922a0e51b3397eb605be57653bf06c532adc617958dbf142783f6bdb1f535::RPD::RPD",
-    "faAddress": null,
+    "faAddress": "0xcf8c5fefae3717b488df10f2a6f7f9deb5a016c7b71fafc150234ce1d1a717e",
     "name": "Repanda",
     "symbol": "RPD",
     "decimals": 6,
@@ -248,7 +248,7 @@
   },
     {
     "coinAddress": "0x4205c82380bff5708cd7c59e0043a45890a457a6cdb60c9191d818958fd7ac26::LUCKY::LUCKY",
-    "faAddress": null,
+    "faAddress": "0x1cc2bc27c5134ffcdd80fddcfaa1b9a05f6c03649c9927429f95fc723174c0ae",
     "name": "LUCKY",
     "symbol": "LUCKY",
     "decimals": 6,
@@ -267,7 +267,7 @@
   },
   {
     "coinAddress": "0x83e6ebf0e08121734b117daf65677c77185e151114364f7c53bc2366f2c64a12::LEO::LEO",
-    "faAddress": null,
+    "faAddress": "0xcc0891286f5df62496390cda6cd0d769cd480667eed04d918be4f9bf3ae96b1d",
     "name": "Leo",
     "symbol": "LEO",
     "decimals": 6,
@@ -286,7 +286,7 @@
   },
   {
     "coinAddress": "0x635f53147391781c93bf3e1c68dcea5e2f7234ec371b0f241d150465606a9007::ROBBIE::ROBBIE",
-    "faAddress": null,
+    "faAddress": "0xf4fc8a0ffac72c0d1df07d192fb5806bbccd799c879781404b55e7688eb6b61d",
     "name": "RobbieTheRobot",
     "symbol": "ROBBIE",
     "decimals": 6,
@@ -305,7 +305,7 @@
   },
   {
     "coinAddress": "0xe54b95920ef1cf9483705a32eab8526f270bc2f936dfb4112fd6ef971509d85d::Coin::Pecky",
-    "faAddress": null,
+    "faAddress": "0xa387de3ef742f9bbf00e8d9d3fe6ef2f4fa549036a8d29db8432d50edb463f41",
     "name": "Pecky",
     "symbol": "PECKY",
     "decimals": 6,
@@ -324,7 +324,7 @@
   },
   {
     "coinAddress": "0xd0f37da5c7a0104d8cb161e1ac1e101f90b702c18081b76b62f20137bf40fd0b::OG::OG",
-    "faAddress": null,
+    "faAddress": "0x2e8512e4a6e47b1ab9bbcef054e5d130b843e70c8179b3eab6c56c393c7d4117",
     "name": "SUPRA OG",
     "symbol": "OG",
     "decimals": 6,
@@ -343,7 +343,7 @@
   },
   {
     "coinAddress": "0xae282bd0c040c959be1ed067b525fadb38b02a4cfe6fbb27abd9a7e737aaa471::memecoinburners::MCB",
-    "faAddress": null,
+    "faAddress": "0x7a0f856397582bc65dca11134c9711572612b427837f9ce87cb0bad38a401339",
     "name": "MemeCoinBurners",
     "symbol": "MCB",
     "decimals": 6,
@@ -362,7 +362,7 @@
   },
   {
     "coinAddress": "0x30e804570703471b2d1c347250989d31ece73e695f2efff1d19f0daab99e1ca::SHILLBILL::SHILLBILL",
-    "faAddress": null,
+    "faAddress": "0x9eb5143f5d5e5f2aa02ffa560cdd98a32eb8d8522883a064d1291d8bff6789a7",
     "name": "SHILLBILL",
     "symbol": "SHILLBILL",
     "decimals": 6,
@@ -381,7 +381,7 @@
   },
   {
     "coinAddress": "0x729982d3ad6130276c6972880810b7ddabe6d7fb59b5029fa5bed5674ae75a70::MUMMY::MUMMY",
-    "faAddress": null,
+    "faAddress": "0x77076e706585f7645c722bc5d7362c0d67100431f585a997270e85f8b856d644",
     "name": "SUPRA MUMMY",
     "symbol": "MUMMY",
     "decimals": 6,
@@ -400,7 +400,7 @@
   },
   {
     "coinAddress": "0x6253eb8c732079a4eba6fe8a194461b5051d087ad9d35ddf4a8c087e8f7a1d4e::NANA::NANA",
-    "faAddress": null,
+    "faAddress": "0xe583ee359a571682c463c33635044712ad720b0fc59be327235abde4eacf98f7",
     "name": "Banana",
     "symbol": "NANA",
     "decimals": 6,
@@ -419,7 +419,7 @@
   },
   {
     "coinAddress": "0x1cb8ecc17fd3415505c248567290c083b36e595d067d2122643128e81ae46d43::WABBIT::WABBIT",
-    "faAddress": null,
+    "faAddress": "0xad3d1582b38b2998c71ce145f4fd4b08fadd3a27e21b6967344b56fca038e215",
     "name": "WABBIT",
     "symbol": "WABBIT",
     "decimals": 6,
@@ -438,7 +438,7 @@
   },
   {
     "coinAddress": "0xfec116479f1fd3cb9732cc768e6061b0e45b178a610b9bc23c2143a6493e794::memecoins::SPIKE",
-    "faAddress": null,
+    "faAddress": "0xf199782bff16646c43de02fe1ca4244def5ea7abe0796a4f45002795e6f6ca35",
     "name": "Supra Spike",
     "symbol": "SPIKE",
     "decimals": 3,
