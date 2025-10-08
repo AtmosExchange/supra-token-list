@@ -532,6 +532,25 @@
     "is_featured": false
   },
   {
+    "coinAddress": "0x16aae30a40726dec7737b738ff8c586623d52f861c0ed997994b0498b9a7cacd::SUPD::SUPD",
+    "faAddress": null,
+    "name": "SupraDaddy",
+    "symbol": "SUPD",
+    "decimals": 6,
+    "officialSymbol": "SUPD",
+    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/SUPD.webp",
+    "projectUrl": null,
+    "twitterUrl": null,
+    "telegramUrl": null,
+    "discordUrl": null,
+    "tags": ["Meme"],
+    "atmosUiIndex": 29,
+    "coinGeckoId": null,
+    "coinMarketCapId": null,
+    "verified": "Unverified",
+    "is_featured": false
+  },
+  {
     "coinAddress": "0x3d952f8a8006f76ddea93807090f9884cd0866f26f02bc7c8420a178f42c6700::DEXLYN::DEXLYN",
     "faAddress": null,
     "name": "Dexlyn",
