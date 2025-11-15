@@ -19,6 +19,25 @@
     "is_featured": true
   },
   {
+    "coinAddress": null,
+    "faAddress": "0xaa925a2232144c11dfe855178e1d252a8d0d4f51f5572fc0ec34efa6333952ae",
+    "name": "Solido Token",
+    "symbol": "SOLID",
+    "decimals": 8,
+    "officialSymbol": "SOLID",
+    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/solid.svg",
+    "projectUrl": "https://solido.money/",
+    "twitterUrl": "https://x.com/SolidoMoney",
+    "tags": [],
+    "telegramUrl": null,
+    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
+    "coinGeckoId": null,
+    "coinMarketCapId": null,
+    "atmosUiIndex": 2,
+    "verified": "Verified",
+    "is_featured": true
+  },
+  {
     "coinAddress": "0x9176f70f125199a3e3d5549ce795a8e906eed75901d535ded623802f15ae3637::cdp_multi::CASH",
     "faAddress": "0x4b28b64c9fa2e5a10f8fb57f1df741f40f58d1eafcfb6ae7c6cfbc68c83d32f7",
     "name": "Solido Stablecoin",
@@ -31,7 +50,7 @@
     "telegramUrl": null,
     "discordUrl": null,
     "tags": [],
-    "atmosUiIndex": 2,
+    "atmosUiIndex": 3,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -50,9 +69,28 @@
     "telegramUrl": null,
     "discordUrl": null,
     "tags": [],
-    "atmosUiIndex": 3,
+    "atmosUiIndex": 4,
     "coinGeckoId": null,
     "coinMarketCapId": null,
+    "verified": "Verified",
+    "is_featured": true
+  },
+  {
+    "coinAddress": null,
+    "faAddress": "0xcef22ecc2e7b480f38000d6e78e3b0e6f4de12ea190e0893a9adbcc4599c06a0",
+    "name": "Solid Staking Vault",
+    "symbol": "stSOLID",
+    "decimals": 8,
+    "officialSymbol": "stSOLID",
+    "tags": [],
+    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/stSolid.svg",
+    "projectUrl": "https://solido.money/",
+    "twitterUrl": "https://x.com/SolidoMoney",
+    "telegramUrl": null,
+    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
+    "coinGeckoId": null,
+    "coinMarketCapId": null,
+    "atmosUiIndex": 5,
     "verified": "Verified",
     "is_featured": true
   },
@@ -68,10 +106,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 4,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 6,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -89,10 +125,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 5,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 7,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -111,7 +145,7 @@
     "telegramUrl": null,
     "discordUrl": null,
     "tags": [],
-    "atmosUiIndex": 6,
+    "atmosUiIndex": 8,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -129,10 +163,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 7,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 9,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -150,10 +182,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 8,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 10,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -171,10 +201,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 9,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 11,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -192,10 +220,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 10,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 12,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -213,10 +239,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 11,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 13,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -234,10 +258,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 12,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 14,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -255,10 +277,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 13,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 15,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -276,10 +296,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 14,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 16,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -297,10 +315,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Bridged"
-    ],
-    "atmosUiIndex": 15,
+    "tags": ["Bridged"],
+    "atmosUiIndex": 17,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -318,10 +334,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 16,
+    "tags": ["Meme"],
+    "atmosUiIndex": 18,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -339,10 +353,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 17,
+    "tags": ["Meme"],
+    "atmosUiIndex": 19,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -361,7 +373,7 @@
     "telegramUrl": null,
     "discordUrl": null,
     "tags": [],
-    "atmosUiIndex": 18,
+    "atmosUiIndex": 20,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
@@ -379,10 +391,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 19,
+    "tags": ["Meme"],
+    "atmosUiIndex": 21,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -400,10 +410,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 20,
+    "tags": ["Meme"],
+    "atmosUiIndex": 22,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -421,10 +429,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 21,
+    "tags": ["Meme"],
+    "atmosUiIndex": 23,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -442,10 +448,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 22,
+    "tags": ["Meme"],
+    "atmosUiIndex": 24,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -463,10 +467,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 23,
+    "tags": ["Meme"],
+    "atmosUiIndex": 25,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -484,10 +486,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 24,
+    "tags": ["Meme"],
+    "atmosUiIndex": 26,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -505,10 +505,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 25,
+    "tags": ["Meme"],
+    "atmosUiIndex": 27,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -526,10 +524,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 26,
+    "tags": ["Meme"],
+    "atmosUiIndex": 28,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -547,10 +543,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 27,
+    "tags": ["Meme"],
+    "atmosUiIndex": 29,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -568,10 +562,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 28,
+    "tags": ["Meme"],
+    "atmosUiIndex": 30,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -589,10 +581,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 29,
+    "tags": ["Meme"],
+    "atmosUiIndex": 31,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -610,10 +600,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 30,
+    "tags": ["Meme"],
+    "atmosUiIndex": 32,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -631,10 +619,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 31,
+    "tags": ["Meme"],
+    "atmosUiIndex": 33,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -652,10 +638,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 32,
+    "tags": ["Meme"],
+    "atmosUiIndex": 34,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -673,10 +657,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 33,
+    "tags": ["Meme"],
+    "atmosUiIndex": 35,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -694,10 +676,8 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": [
-      "Meme"
-    ],
-    "atmosUiIndex": 34,
+    "tags": ["Meme"],
+    "atmosUiIndex": 36,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Unverified",
@@ -759,33 +739,5 @@
     "coinMarketCapId": null,
     "verified": "Scam",
     "is_featured": false
-  },
-  {
-    "coinAddress": null,
-    "faAddress": "0xaa925a2232144c11dfe855178e1d252a8d0d4f51f5572fc0ec34efa6333952ae",
-    "name": "Solido Token",
-    "symbol": "SOLID",
-    "decimals": 8,
-    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/solid.svg",
-    "projectUrl": "https://solido.money/",
-    "twitterUrl": "https://x.com/SolidoMoney",
-    "telegramUrl": null,
-    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
-    "coinGeckoId": null,
-    "coinMarketCapId": null
-  },
-  {
-    "coinAddress": null,
-    "faAddress": "0xcef22ecc2e7b480f38000d6e78e3b0e6f4de12ea190e0893a9adbcc4599c06a0",
-    "name": "Solid Staking Vault",
-    "symbol": "stSOLID",
-    "decimals": 8,
-    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/stSolid.svg",
-    "projectUrl": "https://solido.money/",
-    "twitterUrl": "https://x.com/SolidoMoney",
-    "telegramUrl": null,
-    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
-    "coinGeckoId": null,
-    "coinMarketCapId": null
   }
 ]
