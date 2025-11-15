@@ -68,7 +68,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 4,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -87,7 +89,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 5,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -125,7 +129,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 7,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -144,7 +150,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 8,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -163,7 +171,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 9,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -182,7 +192,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 10,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -201,14 +213,15 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 11,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
     "is_featured": false
   },
-
   {
     "coinAddress": null,
     "faAddress": "0x90a8e901e02ac1539af4a865bbe4a6b96edc27375488803cfbbd6875ec57b281",
@@ -221,14 +234,15 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 12,
     "coinGeckoId": null,
     "coinMarketCapId": null,
     "verified": "Verified",
     "is_featured": false
   },
-
   {
     "coinAddress": null,
     "faAddress": "0x80f0251b74c76f1c477b9209ade65ffb5cfecd9b259875c3865ad645f6c33a3d",
@@ -241,7 +255,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 13,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -260,7 +276,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 14,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -279,7 +297,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Bridged"],
+    "tags": [
+      "Bridged"
+    ],
     "atmosUiIndex": 15,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -298,7 +318,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 16,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -317,7 +339,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 17,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -355,7 +379,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 19,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -374,7 +400,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 20,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -393,7 +421,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 21,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -412,7 +442,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 22,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -431,7 +463,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 23,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -450,7 +484,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 24,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -469,7 +505,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 25,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -488,7 +526,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 26,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -507,7 +547,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 27,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -526,7 +568,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 28,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -545,7 +589,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 29,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -564,7 +610,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 30,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -583,7 +631,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 31,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -602,7 +652,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 32,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -621,7 +673,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 33,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -640,7 +694,9 @@
     "twitterUrl": null,
     "telegramUrl": null,
     "discordUrl": null,
-    "tags": ["Meme"],
+    "tags": [
+      "Meme"
+    ],
     "atmosUiIndex": 34,
     "coinGeckoId": null,
     "coinMarketCapId": null,
@@ -706,7 +762,7 @@
   },
   {
     "coinAddress": null,
-    "faAddress": "0xa2832635e00d8eb56f3ba873111d90c1b9dd817115bf80bbe61539ec1750826",
+    "faAddress": "0xaa925a2232144c11dfe855178e1d252a8d0d4f51f5572fc0ec34efa6333952ae",
     "name": "Solido Token",
     "symbol": "SOLID",
     "decimals": 8,
@@ -720,7 +776,7 @@
   },
   {
     "coinAddress": null,
-    "faAddress": "0xdb7a7ab33e34a782fedfd8f530471538b5098de675e321006c5ed936af44f69d",
+    "faAddress": "0xcef22ecc2e7b480f38000d6e78e3b0e6f4de12ea190e0893a9adbcc4599c06a0",
     "name": "Solid Staking Vault",
     "symbol": "stSOLID",
     "decimals": 8,
