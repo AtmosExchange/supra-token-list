@@ -703,5 +703,33 @@
     "coinMarketCapId": null,
     "verified": "Scam",
     "is_featured": false
+  },
+  {
+    "coinAddress": null,
+    "faAddress": "0xa2832635e00d8eb56f3ba873111d90c1b9dd817115bf80bbe61539ec1750826",
+    "name": "Solido Token",
+    "symbol": "SOLID",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/solid.svg",
+    "projectUrl": "https://solido.money/",
+    "twitterUrl": "https://x.com/SolidoMoney",
+    "telegramUrl": null,
+    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "coinAddress": null,
+    "faAddress": "0xdb7a7ab33e34a782fedfd8f530471538b5098de675e321006c5ed936af44f69d",
+    "name": "Solid Staking Vault",
+    "symbol": "stSOLID",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/stSolid.svg",
+    "projectUrl": "https://solido.money/",
+    "twitterUrl": "https://x.com/SolidoMoney",
+    "telegramUrl": null,
+    "discordUrl": "https://discord.com/invite/BPqg54NUfb",
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
