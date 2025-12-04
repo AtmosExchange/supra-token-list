@@ -1,16 +1,20 @@
 import { TokenRequestType } from "types"
 
-const tokenRequest: TokenRequestType = {
-    coinAddress: "0x159790ba3f3ca3b038d9234498ea14390ddcbab13ec96ca17c7396f77da8bf82::FLP::FLP",
-    faAddress: "0x7b66011900be87269647b5cce4902a04d3189982ae677a393b2046e55c92042",
-    name: "FARM LP",
-    symbol: "FLP",
-    decimals: 8,
-    logoUrl: "https://www.pumpit.pro/token/0x7b66011900be87269647b5cce4902a04d3189982ae677a393b2046e55c92042",
-    projectUrl: null,
-    twitterUrl: null,
-    telegramUrl: null,
-    discordUrl: null,
-    coinGeckoId: null,
-    coinMarketCapId: null,
-}
+const requestList: TokenRequestType[] = []
+
+// Add the details of the token you want to add to the list like this:
+// const tokenRequest: TokenRequestType = {
+//     coinAddress: null,
+//     faAddress: "0x1234567890123456789012345678901234567890",
+//     name: "Token Name",
+//     symbol: "TOKEN",
+//     decimals: 18,
+//     logoUrl: "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/FILE_NAME.FILE_EXTENSION",
+//     projectUrl: "https://example.com",
+//     twitterUrl: "https://example.com/twitter",
+//     telegramUrl: "https://example.com/telegram",
+//     discordUrl: "https://example.com/discord",
+//     coinGeckoId: "token-gecko-id",
+//     coinMarketCapId: 1234567890,
+// }
+// and open a PR with the changes
