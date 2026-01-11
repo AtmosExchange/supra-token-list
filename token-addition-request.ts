@@ -3,8 +3,8 @@ import { TokenRequestType } from "types"
 const requestList: TokenRequestType[] = []
 
 const tokenRequest: TokenRequestType = {
-    coinAddress: null,
-    faAddress: "0x2f2514cbada3f20f092cbf6aa19ccba08c952002c1d05692154286d55682cdd1::SUPDOG::SUPDOG",
+    coinAddress: "0x2f2514cbada3f20f092cbf6aa19ccba08c952002c1d05692154286d55682cdd1::SUPDOG::SUPDOG",
+    faAddress: "0xad335af35686239fded1de8619b030b64a0c3af2d170445a1dcd7010a63b80e6",
     name: "SUPDOG",
     symbol: "SUPDOG",
     decimals: 6,
